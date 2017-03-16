@@ -1,1 +1,2 @@
-attach.html
+*.html
+.gitignore
